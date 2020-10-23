@@ -22,5 +22,5 @@ Variant Discovery:
 3. The SNP variants are then filtered based on hard-set filter parameters [VariantFiltration]
 
 # Dependencies
-Software:  Python 3, GATK, BWA MEM
+Software:  Python 3, GATK, BWA MEM. <br/>
 Inputs: FASTQ, reference genome.  For testing, the tiny-test-data repo can be used (https://github.com/roryk/tiny-test-data).
